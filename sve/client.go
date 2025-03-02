@@ -3,7 +3,7 @@ package sve
 import (
 	"go.uber.org/zap"
 
-	"lbank-connector-go/pkg"
+	"github.com/LBank-exchange/lbank-connector-go/pkg"
 )
 
 type Client struct {
